@@ -1,0 +1,12 @@
+
+Projeto desafio escrito em Python
+
+  .Os programas foram colocados em arquivos separados para ajudar na identificação das questões dispostas 
+  no desafio
+
+
+
+
+
+
+
